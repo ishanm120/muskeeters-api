@@ -1,1 +1,1 @@
-# muskeets-api
+# muskeeters-api
